@@ -1,12 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# `🐘 Blind Elephant Media`
 
-**Here are some ideas to get you started:**
+**Exploring the possibilities of game development with Unity**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+## About Us
+
+We are Blind Elephant Media, a small indie game development team. We see the value in open source and want to contribute to the community. Our GitHub is a collection of our explorations and experiments in Unity game development. These projects are not complete tools, but rather starting points or sources of inspiration.
+
+## Our Projects
+
+Our projects are at various stages of development. They serve as a testament to what can be achieved with creativity and collaboration. Each project comes with a README to provide some insight into our process and how you might use these ideas in your own Unity projects.
+
+## Join Our Journey
+
+We're currently working on an RTS game. If you're interested in seeing these repositories in action and learning more about our game development process, consider joining our Discord server.
+
+## Connect With Us
+
+We welcome questions, feedback, and friendly conversations. Feel free to open an issue in one of our repositories or join our Discord server.
+
